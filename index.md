@@ -1,7 +1,7 @@
 ---
 title: Patikama Hosgeldiniz
 layout: page
-feature_image: "./img/zion_observation_point.png"
+feature_image: "./img/national_monument.heic"
 feature_text: |
   ## Hello world
 ---
