@@ -1,12 +1,14 @@
 ---
 layout: page
+title: Seyahatlerimiz
 ---
 
-# Ilk Ceviri
+
+## Ilk Ceviri
  
 Bu bir ceviridir.
 
 
-# Ikinci Ceviri
+## Ikinci Ceviri
 
 Bu ikinci bir ceviridir.
