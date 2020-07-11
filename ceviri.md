@@ -4,9 +4,9 @@ layout: page
 
 # Ilk Ceviri
  
- Bu bir ceviridir.
+Bu bir ceviridir.
 
- 
- # Ikinci Ceviri
 
- Bu ikinci bir ceviridir.
+# Ikinci Ceviri
+
+Bu ikinci bir ceviridir.
