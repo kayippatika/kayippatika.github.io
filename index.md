@@ -1,7 +1,7 @@
 ---
 title: Patikama Hosgeldiniz
 layout: page
-feature_image: "./img/national_monument.heic"
+feature_image: "./img/national_monument.png"
 feature_text: |
   ## Hello world
 ---
