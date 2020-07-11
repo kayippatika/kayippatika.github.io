@@ -42,8 +42,8 @@ navigation_header:
   url: /spor/
 - title: Beslenme
   url: /beslenme/
-- title: Ceviriler
-  url: /ceviriler/
+- title: Ceviri
+  url: /ceviri/
 - title: Gezi
   url: /gezi/
 
