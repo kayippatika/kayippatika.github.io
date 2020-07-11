@@ -22,7 +22,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
+title: 'kayip patika'
 description: 'This is my new website'
 permalink: pretty
 
@@ -32,10 +32,10 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: Ana Sayfa
   url: /
-- title: About
-  url: /about/
+- title: Kitap
+  url: /kitap/
 - title: Blog
   url: /blog/
 
