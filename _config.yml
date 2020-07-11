@@ -36,8 +36,16 @@ navigation_header:
   url: /
 - title: Kitap
   url: /kitap/
-- title: Blog
-  url: /blog/
+- title: Dizi/Film
+  url: /dizi_film/
+- title: Spor
+  url: /spor/
+- title: Beslenme
+  url: /beslenme/
+- title: Ceviriler
+  url: /ceviriler/
+- title: Gezi
+  url: /gezi/
 
 # Footer nav
 navigation_footer:
