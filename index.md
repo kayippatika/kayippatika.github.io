@@ -1,7 +1,7 @@
 ---
-title: Welcome to my website
+title: Patikama Hosgeldiniz
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "./img/zion_observation_point.png"
 feature_text: |
   ## Hello world
 ---
